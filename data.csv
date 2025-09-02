@@ -1,0 +1,6 @@
+account_id, user_email     , balance, payment_status, last_activity, account_type
+ACC001    , user1@email.com, 1250.75, completed     , 2024-08-30   , premium
+ACC002    , user2@email.com,  890.25, pending       , 2024-08-29   , basic
+ACC003    , user3@email.com, 2100.00, completed     , 2024-08-31   , premium
+ACC004    , user4@email.com,  450.50, failed        , 2024-08-28   , basic
+ACC005    , user5@email.com, 1750.25, pending       , 2024-08-30   , premium
